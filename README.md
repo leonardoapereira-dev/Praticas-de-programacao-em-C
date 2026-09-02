@@ -1,6 +1,6 @@
 # Prática de Programação em C
 
-Uma pasta com códigos em C que fiz para praticar minha prática de programação, feitos ao longo dos meus estudos.
+Uma pasta com códigos em C que fiz para praticar minha prática de programação.
 
 ## Exercícios
 
