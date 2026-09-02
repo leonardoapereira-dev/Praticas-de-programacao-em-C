@@ -1,0 +1,16 @@
+# Executáveis compilados (gcc -o ...)
+*.exe
+*.out
+a.out
+validador-de-cpf
+cadastro-de-carros
+
+# Arquivos objeto e de build
+*.o
+*.obj
+
+# Arquivos de dados gerados em tempo de execução (ex: sistema de alunos em arquivo)
+alunos.txt
+
+# Configurações locais do VS Code
+.vscode/
